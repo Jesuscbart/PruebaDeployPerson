@@ -16,4 +16,4 @@ const deletePerson = async (req: Request, res: Response) => {
   }
 };
 
-export default deletePerson;
+export default deletePerson;    
